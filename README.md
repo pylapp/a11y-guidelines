@@ -1,3 +1,16 @@
+Disclaimer
+==========
+
+( ˶°ㅁ°) !! **This is a fork of [Orange-OpenSource/a11y-guidelines](https://github.com/Orange-OpenSource/a11y-guidelines)**
+
+The aim of this project is to submit evolutions.
+This is not the official repository of the app.
+You should not submit bug reports, issues or pull requests to this fork.
+
+Last constributions from here:
+-  Add SwiftUI examples in guidelines ([#489](https://github.com/Orange-OpenSource/a11y-guidelines/pull/489))
+-  Fix some issues and add more samples for iOS with SwiftUI ([#508](https://github.com/Orange-OpenSource/a11y-guidelines/pull/508))
+
 # [a11y-guidelines](https://a11y-guidelines.orange.com)
 
 Orange a11y-guidelines contains accessibility guidelines for web and mobile plateforms.  
